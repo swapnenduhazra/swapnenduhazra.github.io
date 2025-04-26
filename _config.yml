@@ -1,0 +1,16 @@
+# Site basics
+title: "Swapnendu Hazra"              # change to your name
+email: "swapnendu.hazra.ece24@heritageit.edu.in"            # your contact email
+description: "Signal Processing & Wireless Comm"
+
+# URL settings
+baseurl: ""                           # leave empty for user sites
+url: "https://swapnenduhazra.github.io"
+
+# Theme (you can switch this later)
+theme: minima
+
+# Social links (optional)
+social:
+  github: swapnenduhazra
+  linkedin: swapnenduhazra
