@@ -14,3 +14,5 @@ _Focus:_ PHY-MAC layer OFDM receiver design with interest in Deep Learning
 ## About Me
 
 Testing...
+
+[🤝 Bonds & Friendship](/bonds/)
